@@ -1,2 +1,2 @@
 # Parallel-and-Concurrent-Programming-Experiment
-This project focuses on parallelizing a serial algorithm using multithreading with proper synchronization via join(). Validated correctness and benchmarked performance across varying input sizes. Generated speedup graphs and profiling results on both local and departmental servers.
+A project to implement a parallel version of an existing serial algorithm using threading and join() for synchronization. The goal is to achieve correctness and measurable speedup over the serial implementation. Includes profiling, benchmarking, and validation to compare performance across different input sizes. Generates speedup graphs and performance analysis on local and departmental server environments.
